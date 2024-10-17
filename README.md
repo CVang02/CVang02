@@ -1,9 +1,8 @@
 <h1>Hi, I'm Cian!
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>I'm currently learning:</h2>
 
-- <b>I'm currently learning:</b>
-  - CompTIA A+
+- <b>CompTIA A+:</b>
 
 <h2> 🤳 Connect with me:</h2>
 
