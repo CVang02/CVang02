@@ -2,7 +2,7 @@
 
 <h2>I'm currently learning:</h2>
 
-- <b>CompTIA A+:</b>
+- <b>CompTIA A+</b>
 
 <h2> 🤳 Connect with me:</h2>
 
