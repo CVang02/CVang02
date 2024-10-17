@@ -4,10 +4,6 @@
 
 - <b>CompTIA A+</b>
 
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: linkedin.com/in/cian-vang-059b231b2/
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
