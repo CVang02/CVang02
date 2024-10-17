@@ -2,6 +2,10 @@
 
 <h2>I'm currently learning:</h2>
 
+- <b>CompTIA ITF+</b>
+
+<h2>I'm currently learning:</h2>
+
 - <b>CompTIA A+</b>
 
 <!--
