@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Cian!
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>I'm currently learning:</b>
+  - CompTIA A+
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: linkedin.com/in/cian-vang-059b231b2/
 
 <!--
-**CVang02/CVang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
