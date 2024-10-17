@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cian!
 
-<h2>I'm currently learning:</h2>
+<h2>Certifications:</h2>
 
 - <b>CompTIA ITF+</b>
 
